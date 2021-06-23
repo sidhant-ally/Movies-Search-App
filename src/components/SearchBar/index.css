@@ -1,0 +1,13 @@
+.SearchBar {
+    justify-content: space-between;
+}
+
+.SearchBar input {
+    width: 30%;
+    height: 20px;
+}
+
+.SearchBar button {
+    margin-left: 10px;
+    height: 25px;
+}
